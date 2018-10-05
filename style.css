@@ -3,20 +3,40 @@
   padding: 100px;
   border-radius: 5px;
   background: #979797;
+  width: 400px;
+  height: 450px;
 
 }
 
 .button{
+  display: block;
   background: #313030;
   padding: 10px 10px;
   text-align: center;
   background-color: #FFFFFF;
+  font-size: 30px;
+  color: #F10000;
+  width: 60px;
+  height: 60px;
+
 }
 
-.buttonDos{
+.table-equal{
   background: #313030;
-  padding: 0px 30px 0px 0px;
   text-align: center;
   background-color: #FFFFFF;
-  display: inline;
+  width: 240px;
+  height: 60px;
+  clear: both;
+}
+
+.table-container{
+  margin: auto;
+  display: block;
+  background-color: green;
+  padding: 15px 15px;
+  border-radius: 10px;
+  width: 300px;
+  height: 350px;
+
 }
