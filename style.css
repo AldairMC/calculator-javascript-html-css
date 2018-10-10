@@ -40,3 +40,18 @@
   height: 350px;
 
 }
+
+#resul{
+  display:block;
+  text-align: center;
+  font-size: 40px;
+  margin-bottom: 50px;
+  width: 300px;
+  height: 80px;
+  line-height: 100px;
+  background: #FFFFFF;
+  border-radius: 30px;
+
+
+
+}
