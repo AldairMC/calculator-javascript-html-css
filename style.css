@@ -11,7 +11,7 @@
 .button{
   display: block;
   background: #313030;
-  padding: 10px 10px;
+  padding: 10px;
   text-align: center;
   background-color: #FFFFFF;
   font-size: 30px;
@@ -25,15 +25,17 @@
   background: #313030;
   text-align: center;
   background-color: #FFFFFF;
-  width: 240px;
+  width: 284px;
   height: 60px;
-  clear: both;
+  font-size: 30px;
+  color: #F10000;
+
 }
 
 .table-container{
   margin: auto;
   display: block;
-  background-color: green;
+  background-color: #686464;
   padding: 15px 15px;
   border-radius: 10px;
   width: 330px;
