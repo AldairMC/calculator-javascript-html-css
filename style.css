@@ -11,24 +11,23 @@
 .button{
   display: block;
   background: #313030;
-  padding: 10px;
   text-align: center;
-  background-color: #FFFFFF;
   font-size: 30px;
-  color: #F10000;
+  color: #FFFFFF;
   width: 60px;
   height: 60px;
+  padding-bottom: 5px;
 
 }
 
 .table-equal{
   background: #313030;
   text-align: center;
-  background-color: #FFFFFF;
   width: 284px;
   height: 60px;
   font-size: 30px;
-  color: #F10000;
+  color: #FFFFFF;
+  padding-bottom: 10px;
 
 }
 
@@ -36,7 +35,7 @@
   margin: auto;
   display: block;
   background-color: #686464;
-  padding: 15px 15px;
+  padding: 15px 0px 10px 15px;
   border-radius: 10px;
   width: 330px;
   height: 470px;
