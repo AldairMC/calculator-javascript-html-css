@@ -9,7 +9,7 @@
 }
 
 .button{
-  display: block;
+  display: inline;
   background: #313030;
   text-align: center;
   font-size: 30px;
